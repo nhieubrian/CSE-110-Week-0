@@ -4,8 +4,12 @@
 
 # Here are some quick shortcuts throughout the project:
 
-[Quote]()
-[Portfilo]()
+[Quote](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#quotations)
+[Portfilo](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#my-projects!)
+[Readme](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#check-out-my-readme!)
+[Top Coding Languages](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#favorite-coding-language)
+[Interesting Tech](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#some-interesting-techonlogies-that-i've-learned)
+[Road map]()
 
 # Quotations:
 *As the great gandhi has once said*
