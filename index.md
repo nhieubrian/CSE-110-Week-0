@@ -1,6 +1,6 @@
 # Hi! My name is Brian Nhieu!
 
-![image](images/)
+![image](images/IMG_20201007_153019.jpg)
 
 # Here are some quick shortcuts throughout the project:
 
