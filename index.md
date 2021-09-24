@@ -12,9 +12,9 @@
 
 [Top Coding Languages](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#favorite-coding-language)
 
-[Interesting Tech](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#some-interesting-techonlogies-that-i've-learned)
+[Interesting Tech](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#some-interesting-technologys-that-ive-learned)
 
-[Road map]()
+[Road map](https://github.com/nhieubrian/CSE-110-Week-0/blob/fav-language/index.md#roadmap-to-programmer---software-engineer)
 
 # Quotations:
 *As the great gandhi has once said*
