@@ -18,7 +18,7 @@ for(lines:code){
 ```
 
 # My Projects!
-You can find more projects that I created [here]()!
+You can find more projects that I created [here](https://www.github.com/nhieubrian)!
 
 # Check out my Readme!
 [Readme](/README.md)
@@ -34,8 +34,8 @@ You can find more projects that I created [here]()!
 - UCSD's Nautilus Network
 
 # Roadmap to Programmer -> Software Engineer
-[x] Graduated High School
-[x] Participate in some sort of internship
-[ ] Graduated UC - San Diego
-[ ] Employed at a large company!
-[ ] $$$
+- [x] Graduated High School
+- [x] Participate in some sort of internship
+- [ ] Graduated UC - San Diego
+- [ ] Employed at a large company!
+- [ ] $$$
